@@ -1,6 +1,6 @@
 FROM  couchbase/centos7-systemd
 
-MAINTAINER shrikant shrikantpatil.biz@gmail.com 
+MAINTAINER shrikant shrikantpatil.biz@gmail.com "DEVIL"
 
 LABEL   Install HTTPD NOW
 
