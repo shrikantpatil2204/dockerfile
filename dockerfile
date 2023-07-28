@@ -1,6 +1,6 @@
 FROM  couchbase/centos7-systemd
 
-MAINTAINER Ankush Ankush@unnati.com
+MAINTAINER shrikant shrikantpatil.biz@gmail.com 
 
 LABEL   Install HTTPD NOW
 
